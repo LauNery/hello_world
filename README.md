@@ -1,3 +1,4 @@
+Clínica Médica Gen - Sistema de Gerenciamento de Pacientes e Médicos
 Projeto desenvolvido como parte do Desafio 1 do Projeto Integrador (Backend), com foco em criar uma aplicação funcional para auxiliar no gerenciamento de pacientes e médicos em clínicas de pequeno porte.
 
 🏥 Descrição do Projeto
