@@ -1,11 +1,14 @@
-# ? rebU98 - Aplicativo de Caronas
-
-**Descrição**  
-O rebU98 é um aplicativo de caronas desenvolvido para facilitar a oferta e a busca de corridas de maneira prática e intuitiva. A plataforma é responsiva e foi pensada para proporcionar uma experiência eficiente tanto para motoristas quanto para usuários que desejam oferecer ou buscar caronas.
+# ✨ rebU98 - Aplicativo de Caronas ✨
 
 ---
 
-## ? Índice
+## 🚗 Descrição
+
+O **rebU98** é um aplicativo de caronas desenvolvido para conectar motoristas e passageiros de forma prática, rápida e segura. Com uma interface responsiva, a plataforma permite oferecer e buscar corridas, gerenciar usuários e motoristas, tudo de maneira intuitiva. Seja para facilitar seu deslocamento diário ou oferecer uma carona, o rebU98 torna tudo mais fácil!
+
+---
+
+## 📚 Índice
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -18,61 +21,63 @@ O rebU98 é um aplicativo de caronas desenvolvido para facilitar a oferta e a bu
 
 ---
 
-## ? Sobre <a name="sobre"></a>
+## 📝 Sobre <a name="sobre"></a>
 
-O rebU98 visa conectar motoristas e passageiros de forma simples, segura e eficiente. Com uma interface responsiva, o aplicativo permite gerenciar usuários, motoristas e corridas, oferecendo funcionalidades completas de CRUD (Criar, Ler, Atualizar, Deletar).  
+O **rebU98** foi criado com o objetivo de promover uma mobilidade mais eficiente e colaborativa. A plataforma permite que usuários se cadastrem como passageiros ou motoristas, oferecendo uma experiência fluida na oferta e busca por corridas.  
+
+**Destaques:**  
+✔️ Interface responsiva para dispositivos móveis e desktops  
+✔️ Gestão completa de usuários, motoristas e corridas  
+✔️ Segurança com autenticação JWT  
+✔️ Banco de dados robusto com MySQL  
 
 ---
 
-## ? Tecnologias Utilizadas <a name="tecnologias-utilizadas"></a>
+## 🛠 Tecnologias Utilizadas <a name="tecnologias-utilizadas"></a>
 
 ### Backend
-- ⚙️ **Spring Boot**
-  - Spring Boot Web
-  - Spring Boot DevTools
-  - Spring Boot Data JPA
-  - Spring Boot Validation
-  - Spring Security JWT (JSON Web Token)
-- ⚙️ **Lombok**
+- ⚙️ **Spring Boot** (Web, DevTools, Data JPA, Validation, Security JWT)  
+- 🧰 **Lombok** (redução de boilerplate)  
 
 ### Banco de Dados
 - 🗄️ **MySQL**
 
 ---
 
-## ? Funcionalidades <a name="funcionalidades"></a>
+## ⚙ Funcionalidades Principais <a name="funcionalidades"></a>
 
 ### Usuário
-- Cadastrar novo usuário
-- Login de usuário
-- Listar todos os usuários
-- Buscar usuário por ID
-- Atualizar dados do usuário
-- Deletar usuário
+- ✅ Cadastrar novo usuário
+- 🔑 Login com autenticação segura
+- 📋 Listar todos os usuários
+- 🔍 Buscar usuário por ID
+- ✏️ Atualizar dados do usuário
+- ❌ Deletar usuário
 
 ### Motorista
-- Cadastrar motorista
-- Listar todos os motoristas
-- Buscar motorista por ID, CNH, modelo do carro ou placa
-- Atualizar motorista
-- Deletar motorista
+- ✅ Cadastrar motorista
+- 📋 Listar todos os motoristas
+- 🔍 Buscar motorista por ID, CNH, modelo do carro ou placa
+- ✏️ Atualizar informações do motorista
+- ❌ Deletar motorista
 
 ### Corrida
-- Cadastrar corrida
-- Calcular tempo estimado da corrida
-- Buscar corrida por ID, usuário ou motorista
-- Atualizar corrida
-- Deletar corrida
+- ✅ Cadastrar nova corrida
+- ⏱️ Calcular tempo estimado da corrida
+- 🔍 Buscar corrida por ID, usuário ou motorista
+- ✏️ Atualizar detalhes da corrida
+- ❌ Deletar corrida
 
 ---
 
-## ? Demonstração <a name="demonstracao"></a>
+## 🎥 Demonstração <a name="demonstracao"></a>
 
-![Gif demonstrando a funcionalidade de uma carona no aplicativo]  
-*(Insira aqui um GIF ilustrando a plataforma em ação)*
+![GIF ilustrando a busca por corridas no aplicativo]  
+*(Insira aqui um GIF mostrando a plataforma em ação)*
 
 ---
 
-## ? Instalação <a name="instalacao"></a>
+## 🚀 Instalação <a name="instalacao"></a>
 
 Siga os passos abaixo para rodar o projeto localmente:
+
