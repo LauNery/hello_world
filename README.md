@@ -109,6 +109,4 @@ O **rebU98** é um aplicativo inovador que conecta motoristas e passageiros de f
 </p>
 <div style="text-align: center;">
   <img ![SDpJ](https://github.com/user-attachments/assets/da2dd277-0900-4cfc-a546-17d9b397bd65)>
-
-
 ---
