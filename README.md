@@ -9,9 +9,6 @@ O **rebU98** é um aplicativo inovador que conecta motoristas e passageiros de f
 > 💡 **Conectando pessoas, facilitando viagens!**
 
 ---
-
-## 🎥 Gif de Carona
-
 </p>
 <div style="text-align: center;">
   <img src="https://i0.wp.com/maracujaroxo.com/wp-content/uploads/2017/06/gif-carona-viajar-sem-dinheiro.gif?ssl=1" alt="Gif de Carona" width="380">
