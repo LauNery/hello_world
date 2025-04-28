@@ -104,9 +104,19 @@ O **rebU98** é um aplicativo inovador que conecta motoristas e passageiros de f
 
 ![image](https://github.com/user-attachments/assets/ea484efe-aae8-45e5-bca2-4639198a05e2)
 
-✨ Obrigado por visitar! ✨
----
-</p>
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8" />
+<title>Obrigado por visitar!</title>
+</head>
+<body>
+
+<p style="text-align: center;">✨ Obrigado por visitar! ✨</p>
+
 <div style="text-align: center;">
-  <img ![SDpJ](https://github.com/user-attachments/assets/da2dd277-0900-4cfc-a546-17d9b397bd65)>
----
+  <img src="https://github.com/user-attachments/assets/da2dd277-0900-4cfc-a546-17d9b397bd65" alt="Agradecimento" />
+</div>
+
+</body>
+</html>
