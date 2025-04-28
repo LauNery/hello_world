@@ -1,10 +1,12 @@
-# ✨ rebU98 - Aplicativo de Caronas ✨
+# 🚗✨ rebU98 - Aplicativo de Caronas ✨🚗
 
 ---
 
-## 🚗 Descrição
+## 🌟 Descrição
 
-O **rebU98** é um aplicativo de caronas desenvolvido para conectar motoristas e passageiros de forma prática, rápida e segura. Com uma interface responsiva, a plataforma permite oferecer e buscar corridas, gerenciar usuários e motoristas, tudo de maneira intuitiva. Seja para facilitar seu deslocamento diário ou oferecer uma carona, o rebU98 torna tudo mais fácil!
+O **rebU98** é um aplicativo inovador que conecta motoristas e passageiros de forma rápida, segura e intuitiva. Pensado para facilitar seu deslocamento diário ou oferecer uma carona a quem precisa, nossa plataforma responsiva garante uma experiência fluida em qualquer dispositivo.
+
+> **Quer viajar com conforto e economia? O rebU98 é a sua melhor escolha!**
 
 ---
 
@@ -23,61 +25,57 @@ O **rebU98** é um aplicativo de caronas desenvolvido para conectar motoristas e
 
 ## 📝 Sobre <a name="sobre"></a>
 
-O **rebU98** foi criado com o objetivo de promover uma mobilidade mais eficiente e colaborativa. A plataforma permite que usuários se cadastrem como passageiros ou motoristas, oferecendo uma experiência fluida na oferta e busca por corridas.  
+O **rebU98** foi criado para transformar a mobilidade urbana, promovendo uma rede colaborativa de viagens. Com funcionalidades completas, permite que usuários se cadastrem como passageiros ou motoristas, oferecendo uma experiência segura e eficiente.
 
-**Destaques:**  
-✔️ Interface responsiva para dispositivos móveis e desktops  
-✔️ Gestão completa de usuários, motoristas e corridas  
-✔️ Segurança com autenticação JWT  
-✔️ Banco de dados robusto com MySQL  
+</p>
+<div style="text-align: center;">
+  <img src="https://i0.wp.com/maracujaroxo.com/wp-content/uploads/2017/06/gif-carona-viajar-sem-dinheiro.gif?ssl=1" alt="Gif de Carona" width="380">
+</div>
+
+### Destaques:
+🌐 Interface moderna e responsiva  
+🔒 Segurança com autenticação JWT  
+🛠️ Gestão completa de usuários, motoristas e corridas  
+💾 Banco de dados robusto com MySQL  
 
 ---
 
-## 🛠 Tecnologias Utilizadas <a name="tecnologias-utilizadas"></a>
+## ⚙️ Tecnologias Utilizadas <a name="tecnologias-utilizadas"></a>
 
 ### Backend
-- ⚙️ **Spring Boot** (Web, DevTools, Data JPA, Validation, Security JWT)  
-- 🧰 **Lombok** (redução de boilerplate)  
+- 🖥️ **Spring Boot** (Web, DevTools, Data JPA, Validation, Security JWT)  
+- 🧰 **Lombok** (reduz boilerplate code)  
 
 ### Banco de Dados
 - 🗄️ **MySQL**
 
 ---
 
-## ⚙ Funcionalidades Principais <a name="funcionalidades"></a>
+## 🚀 Funcionalidades Principais <a name="funcionalidades"></a>
 
-### Usuário
-- ✅ Cadastrar novo usuário
-- 🔑 Login com autenticação segura
-- 📋 Listar todos os usuários
-- 🔍 Buscar usuário por ID
-- ✏️ Atualizar dados do usuário
-- ❌ Deletar usuário
+### 👤 Usuário
+✅ Cadastrar novo usuário  
+🔑 Login seguro com JWT  
+📋 Listar todos os usuários  
+🔍 Buscar usuário por ID  
+✏️ Atualizar dados do usuário  
+🗑️ Deletar usuário  
 
-### Motorista
-- ✅ Cadastrar motorista
-- 📋 Listar todos os motoristas
-- 🔍 Buscar motorista por ID, CNH, modelo do carro ou placa
-- ✏️ Atualizar informações do motorista
-- ❌ Deletar motorista
+### 🚗 Motorista
+✅ Cadastrar motorista  
+📋 Listar todos os motoristas  
+🔍 Buscar por ID, CNH, modelo do carro ou placa  
+✏️ Atualizar informações do motorista  
+🗑️ Deletar motorista  
 
-### Corrida
-- ✅ Cadastrar nova corrida
-- ⏱️ Calcular tempo estimado da corrida
-- 🔍 Buscar corrida por ID, usuário ou motorista
-- ✏️ Atualizar detalhes da corrida
-- ❌ Deletar corrida
-
----
-
-## 🎥 Demonstração <a name="demonstracao"></a>
-
-![GIF ilustrando a busca por corridas no aplicativo]  
-*(Insira aqui um GIF mostrando a plataforma em ação)*
+### 🛣️ Corrida
+✅ Criar nova corrida  
+⏱️ Calcular tempo estimado da corrida  
+🔍 Buscar corrida por ID, usuário ou motorista  
+✏️ Atualizar detalhes da corrida  
+🗑️ Deletar corrida  
 
 ---
 
-## 🚀 Instalação <a name="instalacao"></a>
 
-Siga os passos abaixo para rodar o projeto localmente:
 
