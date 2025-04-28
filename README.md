@@ -35,8 +35,9 @@ O **rebU98** é um aplicativo inovador que conecta motoristas e passageiros de f
   - Spring Boot DevTools
   - Spring Boot Data JPA
   - Spring Boot Validation
-  - Spring Security (JWT)
-- 📝 **Lombok** (reduz boilerplate)
+  - Spring Security
+  -  JWT (JSON Web Token)
+  - Lombok
 
 ### Banco de Dados
 - 🗄️ **MySQL**
