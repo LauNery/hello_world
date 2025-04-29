@@ -8,8 +8,8 @@
 
 ## ✨ Sobre mim
 
-Sou uma entusiasta iniciante na área de tecnologia, com muita vontade de aprender e crescer profissionalmente.  
-Estou em transição de carreira: vindo do setor financeiro/comercial, busco novas oportunidades no universo tech para construir uma trajetória sólida e duradoura.
+Sou novata na área de tecnologia, com muita vontade de aprender e crescer profissionalmente.  
+Estou em transição de carreira: vindo do setor financeiro/comercial, busco novas oportunidades no universo tech para construir uma carreira próspera e longa.
 
 > 💡 *"Sonhos determinam o que você quer. Ação determina o que você conquista."* — Aldo Novak
 
