@@ -1,8 +1,6 @@
 # 👋 Olá! Eu sou **Laura Nery**  
 
-  <div style="text-align: center; margin-top: 20px;">
-  <img src="sua-foto.jpg" alt="Minha Foto" style="width: 400px; border: 5px solid #000; border-radius: 10px;">
-</div>
+  <img src="sua-foto.jpg" alt="Minha Foto" style="width: 400px; border: 3px solid #000; border-radius: 8px;">
 
 ---
 
