@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou **Laura Nery**  
 
- <p align="center">
+ 
   <img src="https://github.com/user-/assets/ca944496-d147-431a-bb10-3718b0b0b9bf" alt="Foto de Perfil" width="220" style="
     border-radius:50%;
     border: 10px solid #FF5733;
