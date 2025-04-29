@@ -1,61 +1,69 @@
-# ? Olá! Eu sou **[Laura Nery]**
+# 🌟 Olá! Eu sou **Laura Nery**  
 
-![20231217_100626](https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf)
-
-
+![Foto de Perfil](https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf)  
 
 ---
 
 ## ✨ Sobre mim
 
-Novata na tecnologia com muita sede de aprender e enfrentar novos desafios. 
-Estou em Transição de Carreira: Venho do setor financeiro / comercial.
-Busco uma oportunidade na área de tecnologia: quero obter uma carreira próspera e longa.
+Sou uma entusiasta iniciante na área de tecnologia, com muita vontade de aprender e crescer profissionalmente.  
+Estou em transição de carreira: vindo do setor financeiro/comercial, busco novas oportunidades no universo tech para construir uma trajetória sólida e duradoura.  
 
-> Sonhos determinam o que você quer. Ação determina o que você conquista - Aldo Novak
+> 💡 *"Sonhos determinam o que você quer. Ação determina o que você conquista."* — Aldo Novak
 
 ---
 
 ## 🚀 Minhas habilidades
 
-![icons8-logo-java-coffee-cup-48](https://github.com/user-attachments/assets/65a9e0e8-0835-4ced-84d9-7230683207a2)
-![icons8-logotipo-da-primavera-48](https://github.com/user-attachments/assets/e8a927ca-d800-4fe2-a881-5340b3c81fb1)
-![icons8-mysql-48](https://github.com/user-attachments/assets/06f34601-100e-4025-bf10-8f68efabd446)
-![icons8-git-48](https://github.com/user-attachments/assets/7574bb57-ecde-40f0-99ee-7d51c11f590f)
+![Java](https://github.com/user-attachments/assets/65a9e0e8-0835-4ced-84d9-7230683207a2)  
+### Java  
+🖥️ Linguagem de programação versátil e amplamente utilizada.
 
+![Spring](https://github.com/user-attachments/assets/e8a927ca-d800-4fe2-a881-5340b3c81fb1)  
+### Spring Framework  
+🌱 Framework para desenvolvimento de aplicações Java robustas.
+
+![MySQL](https://github.com/user-attachments/assets/06f34601-100e-4025-bf10-8f68efabd446)  
+### MySQL  
+🗄️ Banco de dados relacional para armazenamento eficiente.
+
+![Git](https://github.com/user-attachments/assets/7574bb57-ecde-40f0-99ee-7d51c11f590f)  
+### Git & Version Control  
+🔧 Controle de versões para colaborar e manter o código organizado.
 
 ---
 
 ## 🎯 Meu objetivo
 
-Quero contribuir para o crescimento da Empresa que vou atuar e ser uma ótima parceira para os meus colegas de trabalho.
-Estou aberta a novas oportunidades no setor de tecnológia para o crescimento profissional.
+Contribuir para o crescimento da empresa onde atuar, sendo uma parceira dedicada e colaborativa.  
+Estou aberta a novas oportunidades na área de tecnologia para evoluir profissionalmente e fazer a diferença.
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn]https://www.linkedin.com/in/laura-nery-lon1999/
-[![GitHub]https://github.com/LauNery
-✉️ Email: laura.olivernery@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-nery-lon1999/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LauNery)  
+
+✉️ Email: [laura.olivernery@gmail.com](mailto:laura.olivernery@gmail.com)
 
 ---
 
-## 🌟 Vamos nos conectar!
+## 🤝 Vamos nos conectar!
 
-Gostaria de ouvir dicas e conselhos de profissionais que já atuam na áres, será um prazer ter um Bate-Papo com cada um de vocês.  
-Sinta-se à vontade para me enviar uma mensagem!
-
----
-
-## 🎉 Curiosidades
-
-- ? Amo artes marciais: Prático Boxe há anos.
-- ? Sou Roqueira: amo ver e assistir festivais de Rock.
-- ? Viajar e conhecer novos lugares me encanta.
+Adoraria trocar dicas, experiências e conselhos com profissionais da área.  
+Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar com todos vocês!
 
 ---
 
-## Obrigado por visitar meu perfil! ?
+## 🌍 Curiosidades
 
-![image](https://github.com/user-attachments/assets/a7001f54-9fe7-4f35-939b-e3c69a2d9dec)
+- ⚡ Amo artes marciais: pratico boxe há anos.  
+- 🎸 Sou roqueira: adoro festivais de rock ao vivo.  
+- ✈️ Viajar e explorar novos lugares é minha paixão.
+
+---
+
+## 🙏 Obrigado por visitar meu perfil!
+
+![Agradecimento](https://github.com/user-attachments/assets/a7001f54-9fe7-4f35-939b-e3c69a2d9dec)
