@@ -4,6 +4,7 @@
   <div style="border: 5px solid #ff6347; padding: 10px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); background-color: #fff;">
     <img src="sua-foto.jpg" alt="Minha Foto" style="width: 350px; height: auto; border-radius: 10px;">
   </div>
+  
 
 ---
 
