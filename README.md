@@ -49,7 +49,7 @@ Estou aberta a novas oportunidades na área de tecnologia para evoluir profissio
 ## 🌟 Vamos nos conectar!
 
 Adoraria trocar dicas, experiências e conselhos com profissionais da área.  
-Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar!
+Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar com todos vocês!
 
 ---
 
