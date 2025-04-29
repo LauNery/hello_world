@@ -64,7 +64,7 @@ Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar co
 ## 🙏 Agradeço por visitar meu perfil!
 
 <div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/a7001f54-9fe7-4f35-939b-e3c69a2d9dec" alt="Agradecimento" width="200" style="
+  <img src="https://github.com/user-attachments/assets/a7001f54-9fe7-4f35-939b-e3c69a2d9dec" alt="Agradecimento" width="220" style="
     border-radius: 50%;
     border: 10px solid #FF5733;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
