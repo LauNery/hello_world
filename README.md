@@ -1,9 +1,7 @@
-# ? Olá! Eu sou **Laura Nery**  
+# 👋 Olá! Eu sou **Laura Nery**  
 
-<!-- Foto de Perfil Centralizada e maior -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf" alt="Foto de Perfil" width="200"/>
-</p>
+<!-- Foto de Perfil com tamanho ajustado -->
+<img src="https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf" alt="Foto de Perfil" width="150"/>
 
 ---
 
@@ -12,11 +10,11 @@
 Sou uma entusiasta iniciante na área de tecnologia, com muita vontade de aprender e crescer profissionalmente.  
 Estou em transição de carreira: vindo do setor financeiro/comercial, busco novas oportunidades no universo tech para construir uma trajetória sólida e duradoura.
 
-> ? *"Sonhos determinam o que você quer. Ação determina o que você conquista."* — Aldo Novak
+> 💡 *"Sonhos determinam o que você quer. Ação determina o que você conquista."* — Aldo Novak
 
 ---
 
-## ? Minhas habilidades
+## 🚀 Minhas habilidades
 
 | ![Java](https://github.com/user-attachments/assets/65a9e0e8-0835-4ced-84d9-7230683207a2) | **Java** | Uma linguagem versátil e amplamente utilizada. |
 | :--: | :--: | :----------------------------------------------: |
@@ -32,36 +30,36 @@ Estou em transição de carreira: vindo do setor financeiro/comercial, busco nov
 
 ---
 
-## ? Meu objetivo
+## 🎯 Meu objetivo
 
 Contribuir para o crescimento da equipe e da empresa onde atuar, sendo uma parceira dedicada e colaborativa.  
 Estou aberta a novas oportunidades na área de tecnologia para evoluir profissionalmente e fazer a diferença.
 
 ---
 
-## ? Contato
+## 📫 Contato
 
-? [LinkedIn](https://www.linkedin.com/in/laura-nery-lon1999/)  
-? [GitHub](https://github.com/LauNery)  
+🔗 [LinkedIn](https://www.linkedin.com/in/laura-nery-lon1999/)  
+🐙 [GitHub](https://github.com/LauNery)  
 ✉️ Email: [laura.olivernery@gmail.com](mailto:laura.olivernery@gmail.com)
 
 ---
 
-## ? Vamos nos conectar!
+## 🌟 Vamos nos conectar!
 
 Adoraria trocar dicas, experiências e conselhos com profissionais da área.  
 Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar!
 
 ---
 
-## ? Curiosidades
+## 🎉 Curiosidades
 
 ✨ Amo artes marciais: pratico boxe há anos.  
-? Sou roqueira: adoro festivais de rock ao vivo.  
+🎸 Sou roqueira: adoro festivais de rock ao vivo.  
 ✈️ Viajar e explorar novos lugares é minha paixão.
 
 ---
 
-## ? Obrigado por visitar meu perfil!
+## 🙏 Obrigado por visitar meu perfil!
 
 ![Agradecimento](https://github.com/user-attachments/assets/a7001f54-9fe7-4f35-939b-e3c69a2d9dec)
