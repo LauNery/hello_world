@@ -1,121 +1,59 @@
-# 🚗✨ **rebU98 - Aplicativo de Caronas** ✨🚗
+# ? Olá! Eu sou **[Laura Nery]**
+
+![20231217_100626](https://github.com/user-attachments/assets/fd2bfb8d-4d41-4270-94f1-21bf754b9d33)
+
 
 ---
 
-## 🌟 Descrição
+## ✨ Sobre mim
 
-O **rebU98** é um aplicativo inovador que conecta motoristas e passageiros de forma prática, rápida e segura. Pensado para facilitar deslocamentos diários ou oferecer uma carona a quem precisa, nossa plataforma responsiva garante uma experiência intuitiva e eficiente em qualquer dispositivo.
+Novata na tecnologia com muita sede de aprender e enfrentar novos desafios. 
+Estou em Transição de Carreira: Venho do setor financeiro / comercial.
+Busco uma oportunidade na área de tecnologia: quero obter uma carreira próspera e longa.
 
-> 💡 **Conectando pessoas, facilitando viagens!**
-
----
-</p>
-<div style="text-align: center;">
-  <img src="https://i0.wp.com/maracujaroxo.com/wp-content/uploads/2017/06/gif-carona-viajar-sem-dinheiro.gif?ssl=1" alt="Gif de Carona" width="380">
-</div>
+> Sonhos determinam o que você quer. Ação determina o que você conquista - Aldo Novak
 
 ---
 
-## 🧑‍🤝‍🧑 **Integrantes**
+## 🚀 Minhas habilidades
 
-- Guilherme Lima  
-- Maria de Fátima  
-- Leonardo de Paula  
-- Caio Nascimento  
-- Laura Nery  
-- Luana Cardoso  
+![image](https://github.com/user-attachments/assets/fda5b501-4593-4472-8462-12b1bef9f021)
+![image](https://github.com/user-attachments/assets/2efaee9d-7539-4fb3-9ed1-02ae59d323ee)
+![image](https://github.com/user-attachments/assets/a09340e8-5e18-4f23-a87e-462ba36ed0a1)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🎯 Meu objetivo
 
-### Backend
-- ⚙️ **Spring Boot**
-  - Spring Boot Web
-  - Spring Boot DevTools
-  - Spring Boot Data JPA
-  - Spring Boot Validation
-  - Spring Security
-  -  JWT (JSON Web Token)
-  - Lombok
-
-### Banco de Dados
-- 🗄️ **MySQL**
+Quero contribuir para o crescimento da Empresa que vou atuar e ser uma ótima parceira para os meus colegas de trabalho.
+Estou aberta a novas oportunidades no setor de tecnológia para o crescimento profissional.
 
 ---
 
-## 📋 Entidades e Atributos
+## 📫 Contato
 
-### 👤 Usuário (`Usuario`)
-- `nome`
-- `email`
-- `tipoUsuario` (ex: passageiro ou motorista)
-- `senha`
-- `foto`
-- `motorista` (associação com `Motorista`)
-- `listaCorridas` (corridas associadas)
-
-### 🚗 Motorista (`Motorista`)
-- `carro`
-- `cnh`
-- `placa`
-- `usuario` (associação com `Usuario`)
-- `listaCorridas` (corridas associadas)
-
-### 🏁 Corrida (`Corrida`)
-- `origem`
-- `destino`
-- `preco`
-- `horario`
-- `distanciaKm`
-- `motorista` (associação com `Motorista`)
-- `usuario` (associação com `Usuario`)
-- `velocidadeMedia`
+[![LinkedIn]https://www.linkedin.com/in/laura-nery-lon1999/
+[![GitHub]https://github.com/LauNery
+✉️ Email: laura.olivernery@gmail.com
 
 ---
 
-## ⚙️ Funcionalidades Principais (CRUD)
+## 🌟 Vamos nos conectar!
 
-### 👤 Usuário
-✅ Cadastrar novo usuário  
-🔑 Login seguro com JWT  
-📋 Listar todos os usuários  
-🔍 Buscar usuário por ID  
-✏️ Atualizar dados do usuário  
-🗑️ Deletar usuário  
-
-### 🚗 Motorista
-✅ Cadastrar motorista  
-📋 Listar todos os motoristas  
-🔍 Buscar por ID, CNH, modelo do carro ou placa  
-✏️ Atualizar informações do motorista  
-🗑️ Deletar motorista  
-
-### 🏎️ Corrida
-✅ Criar nova corrida  
-⏱️ Calcular tempo estimado da corrida  
-🔍 Buscar corrida por ID, usuário ou motorista  
-✏️ Atualizar detalhes da corrida  
-🗑️ Deletar corrida  
+Gostaria de ouvir dicas e conselhos de profissionais que já atuam na áres, será um prazer ter um Bate-Papo com cada um de vocês.  
+Sinta-se à vontade para me enviar uma mensagem!
 
 ---
 
-# 🎨✨ Diagrama ✨🎨
+## 🎉 Curiosidades
 
-![image](https://github.com/user-attachments/assets/ea484efe-aae8-45e5-bca2-4639198a05e2)
+- ? Amo artes marciais: Prático Boxe há anos.
+- ? Sou Roqueira: amo ver e assistir festivais de Rock.
+- ? Viajar e conhecer novos lugares me encanta.
 
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-<meta charset="UTF-8" />
-</head>
-<body>
+---
 
-<p style="text-align: center;">✨ Obrigado por visitar! ✨</p>
+## Obrigado por visitar meu perfil! ?
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/da2dd277-0900-4cfc-a546-17d9b397bd65" alt="Agradecimento" />
-</div>
-
-</body>
-</html>
+![image](https://github.com/user-attachments/assets/a7001f54-9fe7-4f35-939b-e3c69a2d9dec)
