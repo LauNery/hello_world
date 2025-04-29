@@ -63,11 +63,5 @@ Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar co
 
 ## 🙏 Agradeço por visitar meu perfil!
 
-<div style="text-align: center;">
   ![image](https://github.com/user-attachments/assets/693a92ab-1e19-48e2-a713-0ab2b8e44294)
-    border-radius: 50%;
-    border: 10px solid #FF5733;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    padding: 5px;
-  "/>
-</div>
+   
