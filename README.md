@@ -1,8 +1,15 @@
 # 👋 Olá! Eu sou **Laura Nery**  
 
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf" alt="Foto de Perfil" width="220" style="border-radius:50%; border:6px double #2196F3; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
-</p> 
+  <img src="https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf" alt="Foto de Perfil" width="220" style="
+    border-radius:50%;
+    border:6px double #2196F3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    padding: 10px; /* Espaçamento interno para a moldura */
+    background-color: #fff; /* Cor de fundo da moldura */
+    margin: 10px; /* Espaçamento externo */
+  "/>
+</p>
 
 ---
 
