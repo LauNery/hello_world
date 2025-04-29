@@ -61,6 +61,6 @@ Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar co
 
 ---
 
-## 🙏 Obrigado por visitar meu perfil!
+## 🙏 Agradeço por visitar meu perfil!
 
 ![Agradecimento](https://github.com/user-attachments/assets/a7001f54-9fe7-4f35-939b-e3c69a2d9dec)
