@@ -1,6 +1,7 @@
 # ? Olá! Eu sou **[Laura Nery]**
 
-![20231217_100626](https://github.com/user-attachments/assets/fd2bfb8d-4d41-4270-94f1-21bf754b9d33)
+![20231217_100626](https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf)
+
 
 
 ---
@@ -17,10 +18,11 @@ Busco uma oportunidade na área de tecnologia: quero obter uma carreira prósper
 
 ## 🚀 Minhas habilidades
 
-![image](https://github.com/user-attachments/assets/fda5b501-4593-4472-8462-12b1bef9f021)
-![image](https://github.com/user-attachments/assets/2efaee9d-7539-4fb3-9ed1-02ae59d323ee)
-![image](https://github.com/user-attachments/assets/a09340e8-5e18-4f23-a87e-462ba36ed0a1)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![icons8-logo-java-coffee-cup-48](https://github.com/user-attachments/assets/65a9e0e8-0835-4ced-84d9-7230683207a2)
+![icons8-logotipo-da-primavera-48](https://github.com/user-attachments/assets/e8a927ca-d800-4fe2-a881-5340b3c81fb1)
+![icons8-mysql-48](https://github.com/user-attachments/assets/06f34601-100e-4025-bf10-8f68efabd446)
+![icons8-git-48](https://github.com/user-attachments/assets/7574bb57-ecde-40f0-99ee-7d51c11f590f)
+
 
 ---
 
