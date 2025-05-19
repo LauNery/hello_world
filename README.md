@@ -6,7 +6,8 @@
 ## ✨ Sobre o Projeto
 
 Este é um projeto **Spring Boot** que disponibiliza endpoints REST para fornecer informações importantes de forma simples e rápida.
-Colocar em Lista os comportamentais de Bem-estar da Generation Brasil e os objetivos semanais
+
+---
 
 🌟 **Funcionalidades principais:**
 - Mensagem de boas-vindas
