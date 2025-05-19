@@ -1,19 +1,17 @@
 # 🚀 Projeto Hello World - Spring Boot
 
-![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg)
 
 ---
 
 ## ✨ Sobre o Projeto
 
 Este é um projeto **Spring Boot** que disponibiliza endpoints REST para fornecer informações importantes de forma simples e rápida.
+Colocar em Lista os comportamentais de Bem-estar da Generation Brasil e os objetivos semanais
 
 🌟 **Funcionalidades principais:**
 - Mensagem de boas-vindas
 - Lista de BSMs (Comportamentos de Sucesso)
 - Objetivos de aprendizagem da semana
-
-Ideal para quem quer praticar a criação de APIs RESTful em Java!
 
 ---
 
