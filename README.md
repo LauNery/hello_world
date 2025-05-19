@@ -23,13 +23,6 @@ Colocar em Lista os comportamentais de Bem-estar da Generation Brasil e os objet
 | `/hello-world/bsm` | Lista os BSMs | Lista de comportamentos |
 | `/hello-world/objetivos` | Objetivos da semana | Lista de objetivos |
 
----
-
-## 🎨 Visualização
-
-🖼️ Aqui vai uma imagem ilustrativa que representa APIs em ação:
-
-![API Illustration](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)
 
 ---
 
