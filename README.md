@@ -1,4 +1,4 @@
-# 🚀 Projeto "Hello World"!
+# 🚀 Projeto "Hello World!"
 
 
 ---
